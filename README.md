@@ -3,10 +3,9 @@ LC Waikiki Bootcamp Appium Bitirme Projesi
 
  
 ## Projenin Senaryosu
- 
- 
--Bir yeni müşteri kaydı oluşturulacak.
--Login olduktan sonra
+
+- Bir yeni müşteri kaydı oluşturulacak.
+- Login olduktan sonra
 - Kategoriler-->Kadın-->Giyim-->Bluz bölümüne girip
 - Filtreleme bölümünden renk seçeneği siyah seçilecek.
 - Sonuçlar listele yapılıp ,gelen ürün sonuçlarından biri seçilip ,üstüne tıklanacak.
