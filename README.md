@@ -4,6 +4,7 @@ LC Waikiki Bootcamp Appium Bitirme Projesi
  
 ## Projenin Senaryosu
  
+ 
 -Bir yeni müşteri kaydı oluşturulacak.
 -Login olduktan sonra
 - Kategoriler-->Kadın-->Giyim-->Bluz bölümüne girip
