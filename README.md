@@ -28,3 +28,10 @@ LC Waikiki Bootcamp Appium Bitirme Projesi
 - src/test/resources/testSuites/Parallel.xml dosyasından çalıştırılmalıdır.
 
 Ayrıca projede doğru senaryoyla yeni kayıt oluşturma ve yanlış senaryoyla yeni kayıt oluşturma adımları da gösterilmiştir. Bu kısımları da çalıştırmak için src/main/testRunners/runner dosyasındaki tags kısmı yorum satırına alınmalıdır.
+
+
+##Rapor
+Projede Cucumber ve spark report bulunmaktadır.
+
+Raporlar, /Reports/CucumberReport ve /Report/SparkReport klasörleri altında bulunamkatadır.
+
