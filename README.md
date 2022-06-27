@@ -1,6 +1,5 @@
 # LC-Waikiki-Bootcamp-Appium-Bitirme-Projesi
 LC Waikiki Bootcamp Appium Bitirme Projesi
-
  
 ## Projenin Senaryosu
 
@@ -32,3 +31,5 @@ Ayrıca projede doğru senaryoyla yeni kayıt oluşturma ve yanlış senaryoyla 
 
 ## Raporlar
 Raporlar(Cucumber Rapor ve Spark Rapor), Reports klasörünün içinde bulunmaktadır. 
+
+-Başarılı-Başarısız üye olma case'i de excele yazılıp eklenmiştir.
